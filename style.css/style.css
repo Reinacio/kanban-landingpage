@@ -284,7 +284,7 @@ header label {
 .newsletter form input[type="submit"] {
   background: rgba(255, 255, 255, 0);
   color: black;
-  width: 100rem;
+  width: 20rem;
   font-size: 1.7rem;
   border-radius: 1rem;
   cursor: pointer;
