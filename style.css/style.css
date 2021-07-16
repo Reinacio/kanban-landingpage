@@ -121,7 +121,7 @@ header .navbar a:hover {
 }
 
 header input {
-  outline: none;
+  display: none;
 }
 
 header label {
