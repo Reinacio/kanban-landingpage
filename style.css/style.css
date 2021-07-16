@@ -375,10 +375,11 @@ header label {
 @media (max-width: 1280px) {
   html {
     font-size: 55%;
+    height: 50%;
   }
 }
 
-@media (max-width: 991px) {
+@media (max-width: 900px) {
   section {
     padding: 0 3%;
     padding-top: 7.5rem;
